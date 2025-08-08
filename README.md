@@ -50,6 +50,7 @@ To create this dashboard I used Excel and Tableau, ensuring interactivity.
 - Inserted image of dashboard layout and then used horizontal and vertical floating containers to bring in graphs
 
 ### Final Dashboard
+[Tableau Public](https://public.tableau.com/app/profile/aamina.patel5997/viz/LayoffsDashboard_17544989781450/WorldLayoffsDashboard)
 
 <img width="1352" height="757" alt="World Layoffs Dashboard" src="https://github.com/user-attachments/assets/84777292-9a09-459f-b1e7-2c4eab9cb46a" />
 
